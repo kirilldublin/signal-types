@@ -1,0 +1,10 @@
+# Данные соревнования (берутся с Kaggle, слишком большие для репозитория)
+Run200_Wave_0_1.txt
+*.txt
+
+# Артефакты
+submission.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
